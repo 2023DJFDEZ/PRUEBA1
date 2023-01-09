@@ -1,1 +1,5 @@
 # PRUEBA1
+##  INSTALACION
+## DESPLIEGE
+### PASO 1
+### PASO 2
